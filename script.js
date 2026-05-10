@@ -41,6 +41,11 @@ const repoConfig = {
         priority: 0 
     },
 
+    "In_The_Beginning_Was_Noise": {
+        cover: "data/Repo%20Cover/In_The_Beginning_Was_Noise.jpg", 
+        priority: 2
+    },
+
     // TODO -> Add here the new repo info
 
     "FabioS08": { 
