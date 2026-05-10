@@ -36,13 +36,13 @@ const repoConfig = {
         priority: 0 
     },
 
-    "fabioschiliro.it": { 
+    "FabioS08.github.io": { 
         cover: "data/Repo%20Cover/fabioschiliro.it.png", 
         priority: 0 
     },
 
     "In_The_Beginning_Was_Noise": {
-        cover: "data/Repo%20Cover/In_The_Beginning_Was_Noise.jpg", 
+        cover: "data/Repo%20Cover/In_The_Beginning_Was_Noise .jpg", 
         priority: 2
     },
 
