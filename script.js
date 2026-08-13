@@ -46,6 +46,11 @@ const repoConfig = {
         priority: 2
     },
 
+    "F1_Performance_Engineer": {
+        cover: "data/Repo%20Cover/F1_Performance_Engineer.jpg", 
+        priority: 1
+    },
+
     // TODO -> Add here the new repo info
 
     "FabioS08": { 
