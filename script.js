@@ -51,6 +51,11 @@ const repoConfig = {
         priority: 1
     },
 
+    "SpaceShip_Titanic_Challenge": {
+        cover: "data/Repo%20Cover/SpaceShip_Titanic_Challenge.jpg", 
+        priority: 1
+    },
+
     // TODO -> Add here the new repo info
 
     "FabioS08": { 
