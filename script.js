@@ -56,6 +56,11 @@ const repoConfig = {
         priority: 1
     },
 
+    "Who_is_the_mole": {
+        cover: "data/Repo%20Cover/Who_is_the_mole.jpg", 
+        priority: 1
+    },
+
     // TODO -> Add here the new repo info
 
     "FabioS08": { 
